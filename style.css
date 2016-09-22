@@ -27,9 +27,11 @@ header{
 	text-align: center;
 }
 .timeline{
+	width: 80%;
+	height: 80%;
 	background-color: silver;
 	text-align: center;
-	
+	margin-left: 10%;
 }
 #down{
 		background-color: silver;
